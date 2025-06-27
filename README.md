@@ -1,2 +1,9 @@
-# openzwbmmlab
-openmmlab学习笔记
+# opensmmlab
+
+在原本openmmlab框架中加入光谱图像的训练与推理功能
+
+openmmlab训练光谱模型 ：这个文件写了需要使用框架训练光谱模型所需进行的要点
+
+openmmlab深挖测试 ：这个文件写了单独拎出原本的类做测试，示例了注册机制与实例化机制
+
+分割josn格式转换： 将labelme标注的coco数据的json文件直接转换为png文件
